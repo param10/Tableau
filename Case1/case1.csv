@@ -1,0 +1,51 @@
+﻿Name,OrderDate,Region,Item,TotalSales
+R.Kerr,2014-07-04,Central,Pen Set,3618.47
+J.Browning,2014-07-12,Central,Binder,1257.47
+H.Griffith,2014-07-21,East,Pen Set,696
+S.Stanton,2014-07-29,East,Binder,4319.73
+C.Kelly,2014-08-07,Central,Pen Set,3867
+I.Patterson,2014-08-15,Central,Pencil,5119.68
+S.Whitaker,2014-08-24,Central,Desk,1564.23
+C.Mccullough,2014-09-01,Central,Desk,2533.65
+A.Prince,2014-09-10,East,Pencil,559.95
+D.Nunez,2014-09-18,Central,Pen Set,760
+A.Patton,2014-09-27,West,Pen,5700
+S.Rasmussen,2014-10-05,West,Binder,2533
+J.Delaney,2014-10-14,West,Binder,4416
+A.Solis,2014-10-22,East,Pen,3000
+P.Dunlap,2014-10-31,Central,Pencil,3573.11
+A.Snyder,2014-11-08,East,Pen,3600
+G.Schmidt,2014-11-17,Central,Binder,1798.43
+R.Phelps,2014-11-25,Central,Pen Set,5226.34
+A.Mcpherson,2014-12-04,Central,Binder,3967.68
+R.Kerr,2014-12-12,Central,Pencil,2964
+J.Browning,2014-12-21,Central,Binder,1567.92
+H.Griffith,2014-12-29,East,Pen Set,2745.57
+S.Stanton,2015-01-06,East,Pencil,4810.94
+C.Kelly,2015-01-15,Central,Binder,1392
+I.Patterson,2015-01-23,Central,Binder,1791.72
+S.Whitaker,2015-02-01,Central,Binder,2928
+C.Mccullough,2015-02-09,Central,Pencil,2381.46
+A.Prince,2015-02-18,East,Binder,2412
+D.Nunez,2015-02-26,Central,Pen,1020
+A.Patton,2015-03-07,West,Binder,1906.45
+S.Rasmussen,2015-03-15,West,Pencil,1733.5
+T.Pickett,2015-03-24,East,Pen Set,1994.96
+S.Stephens,2015-04-01,East,Binder,3120
+H.Hawkins,2015-04-10,Central,Pencil,3595.71
+C.Rush,2015-04-18,East,Pencil,733.37
+E.Mckay,2015-04-27,Central,Pen,3920
+B.Stewart,2015-05-05,East,Pencil,2208.24
+D.Sandoval,2015-05-14,West,Pencil,896.16
+A.Schneider,2015-05-22,Central,Pencil,3828
+D.Landry,2015-05-31,Central,Binder,1536
+X.Leonard,2015-06-08,East,Binder,373.3
+C.Mooney,2015-06-17,West,Desk,3760
+C.Serrano,2015-06-25,Central,Pencil,1560
+J.Delaney,2015-06-08,West,Pencil,5553.05
+A.Solis,2015-06-17,East,Pencil,589.29
+P.Dunlap,2015-06-25,Central,Pen,2960
+A.Snyder,2015-06-08,East,Pencil,5274.36
+G.Schmidt,2015-06-17,Central,Pencil,1073.45
+R.Phelps,2015-06-25,Central,Pencil,4959.69
+A.Mcpherson,2015-06-08,Central,Binder,3726.45
